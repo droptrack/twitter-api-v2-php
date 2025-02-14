@@ -1,6 +1,6 @@
 <?php /** @noinspection PhpIllegalPsrClassPathInspection */
 
-namespace Imfaisii\TwitterApi\Test;
+namespace Droptrack\TwitterApi\Test;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;

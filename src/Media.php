@@ -1,6 +1,6 @@
 <?php
 
-namespace Imfaisii\TwitterApi;
+namespace Droptrack\TwitterApi;
 
 use Exception;
 use GuzzleHttp\Client;

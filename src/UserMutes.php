@@ -1,6 +1,6 @@
 <?php
 
-namespace Imfaisii\TwitterApi;
+namespace Droptrack\TwitterApi;
 
 /**
  * Class User/Mutes Controller

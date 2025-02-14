@@ -1,11 +1,11 @@
 <?php /** @noinspection PhpIllegalPsrClassPathInspection */
 
-namespace Imfaisii\TwitterApi\Test;
+namespace Droptrack\TwitterApi\Test;
 
 use Exception;
 use PHPUnit\Framework\TestCase;
 use Dotenv\Dotenv;
-use Imfaisii\TwitterApi\Client;
+use Droptrack\TwitterApi\Client;
 
 abstract class BaseTestCase extends TestCase
 {
