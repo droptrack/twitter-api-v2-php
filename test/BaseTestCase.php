@@ -1,6 +1,6 @@
 <?php /** @noinspection PhpIllegalPsrClassPathInspection */
 
-namespace Noweh\TwitterApi\Test;
+namespace Imfaisii\TwitterApi\Test;
 
 use Exception;
 use PHPUnit\Framework\TestCase;

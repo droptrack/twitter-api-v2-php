@@ -1,5 +1,5 @@
 <?php
-namespace Noweh\TwitterApi;
+namespace Imfaisii\TwitterApi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ServerException;

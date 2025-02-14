@@ -1,6 +1,6 @@
 <?php
 
-namespace Noweh\TwitterApi;
+namespace Imfaisii\TwitterApi;
 
 /**
  * Class Retweet Controller
