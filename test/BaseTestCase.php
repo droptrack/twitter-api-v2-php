@@ -5,7 +5,7 @@ namespace Imfaisii\TwitterApi\Test;
 use Exception;
 use PHPUnit\Framework\TestCase;
 use Dotenv\Dotenv;
-use Noweh\TwitterApi\Client;
+use Imfaisii\TwitterApi\Client;
 
 abstract class BaseTestCase extends TestCase
 {

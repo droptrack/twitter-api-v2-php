@@ -36,12 +36,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Noweh\\TwitterApi\\": "src/"
+      "Imfaisii\\TwitterApi\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Noweh\\TwitterApi\\Test\\": "test/"
+      "Imfaisii\\TwitterApi\\Test\\": "test/"
     }
   }
 }
